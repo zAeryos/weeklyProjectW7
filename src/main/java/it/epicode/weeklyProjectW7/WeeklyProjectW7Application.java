@@ -10,4 +10,5 @@ public class WeeklyProjectW7Application {
 		SpringApplication.run(WeeklyProjectW7Application.class, args);
 	}
 
+
 }
